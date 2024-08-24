@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP\\ASP_web\\Baitap01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71CE579B-57CC-4807-84D0-285C9E60CDE9}|Baitap01\\Baitap01.csproj|e:\\asp\\asp_web\\baitap01\\baitap01\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{71CE579B-57CC-4807-84D0-285C9E60CDE9}|Baitap01\\Baitap01.csproj|solutionrelative:baitap01\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CE579B-57CC-4807-84D0-285C9E60CDE9}|Baitap01\\Baitap01.csproj|e:\\asp\\asp_web\\baitap01\\baitap01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71CE579B-57CC-4807-84D0-285C9E60CDE9}|Baitap01\\Baitap01.csproj|solutionrelative:baitap01\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gitignore",
+              "DocumentMoniker": "E:\\ASP\\ASP_web\\Baitap01\\Baitap01\\gitignore",
+              "RelativeDocumentMoniker": "Baitap01\\gitignore",
+              "ToolTip": "E:\\ASP\\ASP_web\\Baitap01\\Baitap01\\gitignore",
+              "RelativeToolTip": "Baitap01\\gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T13:16:12.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASP\\ASP_web\\Baitap01\\Baitap01\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Baitap01\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ASP\\ASP_web\\Baitap01\\Baitap01\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Baitap01\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-24T12:23:58.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1642,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
