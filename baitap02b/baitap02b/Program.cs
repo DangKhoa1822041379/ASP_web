@@ -34,7 +34,7 @@ app.MapControllerRoute(
 
 app.MapControllerRoute(
     name: "Trang-chu",
-    pattern: "{controller=trang-chu}/{action=Index}/{id?}",
+    pattern: "{controller=Trang-chu}/{action=Index}/{id?}",
     defaults: new { contronller = "Home",action = "Index"});
 
 app.MapControllerRoute(
