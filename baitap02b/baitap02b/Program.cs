@@ -1,3 +1,5 @@
+using System.Configuration;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -21,7 +23,23 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapControllerRoute(
-    name: "default",
+   name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.MapControllerRoute(
+    name: "The-loai",
+    pattern: "The-loai/{action=Index}/{id?}",
+    defaults: new { contronller = "Theloai", action = "Index" });
+
+
+app.MapControllerRoute(
+    name: "Trang-chu",
+    pattern: "{controller=trang-chu}/{action=Index}/{id?}",
+    defaults: new { contronller = "Home",action = "Index"});
+
+app.MapControllerRoute(
+    name: "Trang-chinh",
+    pattern: "Trang-chinh",
+    defaults: new { contronller = "Home", action = "Index" });
 
 app.Run();
