@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -27,19 +28,14 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
-    name: "The-loai",
-    pattern: "The-loai/{action=Index}/{id?}",
-    defaults: new { contronller = "Theloai", action = "Index" });
-
-
-app.MapControllerRoute(
-    name: "Trang-chu",
-    pattern: "{controller=Trang-chu}/{action=Index}/{id?}",
-    defaults: new { contronller = "Home",action = "Index"});
+   name: "trang-chu",
+    pattern: "trang-chu/{action=Index}/{id?}",
+    defaults: new {Controller="Home", action="Index"});
 
 app.MapControllerRoute(
-    name: "Trang-chinh",
-    pattern: "Trang-chinh",
-    defaults: new { contronller = "Home", action = "Index" });
+   name: "the-loai",
+    pattern: "the-loai/{action=Index}/{id?}",
+    defaults: new { Controller = "TheLoai", action = "Index" });
+
 
 app.Run();
