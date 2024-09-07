@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Adotnet\\1\\BTVN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{886D4405-9522-45DA-8618-4624FCEBE262}|BTVN.csproj|e:\\adotnet\\1\\btvn\\views\\btvn\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{886D4405-9522-45DA-8618-4624FCEBE262}|BTVN.csproj|solutionrelative:views\\btvn\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D4405-9522-45DA-8618-4624FCEBE262}|BTVN.csproj|e:\\adotnet\\1\\btvn\\views\\btvn\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{886D4405-9522-45DA-8618-4624FCEBE262}|BTVN.csproj|solutionrelative:views\\btvn\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D4405-9522-45DA-8618-4624FCEBE262}|BTVN.csproj|e:\\adotnet\\1\\btvn\\controllers\\btvncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{886D4405-9522-45DA-8618-4624FCEBE262}|BTVN.csproj|solutionrelative:controllers\\btvncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D4405-9522-45DA-8618-4624FCEBE262}|BTVN.csproj|e:\\adotnet\\1\\btvn\\views\\btvn\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{886D4405-9522-45DA-8618-4624FCEBE262}|BTVN.csproj|solutionrelative:views\\btvn\\maytinh.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{886D4405-9522-45DA-8618-4624FCEBE262}|BTVN.csproj|e:\\adotnet\\1\\btvn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{886D4405-9522-45DA-8618-4624FCEBE262}|BTVN.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "E:\\Adotnet\\1\\BTVN\\Views\\BTVN\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Views\\BTVN\\Profile.cshtml",
+              "ToolTip": "E:\\Adotnet\\1\\BTVN\\Views\\BTVN\\Profile.cshtml",
+              "RelativeToolTip": "Views\\BTVN\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T18:36:52.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\Adotnet\\1\\BTVN\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "E:\\Adotnet\\1\\BTVN\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-06T18:31:30.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Adotnet\\1\\BTVN\\Views\\BTVN\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\BTVN\\Index.cshtml",
+              "ToolTip": "E:\\Adotnet\\1\\BTVN\\Views\\BTVN\\Index.cshtml",
+              "RelativeToolTip": "Views\\BTVN\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T18:17:26.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MayTinh.cshtml",
+              "DocumentMoniker": "E:\\Adotnet\\1\\BTVN\\Views\\BTVN\\MayTinh.cshtml",
+              "RelativeDocumentMoniker": "Views\\BTVN\\MayTinh.cshtml",
+              "ToolTip": "E:\\Adotnet\\1\\BTVN\\Views\\BTVN\\MayTinh.cshtml",
+              "RelativeToolTip": "Views\\BTVN\\MayTinh.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-06T18:16:53.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BTVNController.cs",
+              "DocumentMoniker": "E:\\Adotnet\\1\\BTVN\\Controllers\\BTVNController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BTVNController.cs",
+              "ToolTip": "E:\\Adotnet\\1\\BTVN\\Controllers\\BTVNController.cs",
+              "RelativeToolTip": "Controllers\\BTVNController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T17:22:31.436Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
