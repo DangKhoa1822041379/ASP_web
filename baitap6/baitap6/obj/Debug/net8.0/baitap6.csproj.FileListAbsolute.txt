@@ -528,3 +528,4 @@ E:\ASP\ASP_web\baitap6\baitap6\obj\Debug\net8.0\refint\baitap6.dll
 E:\ASP\ASP_web\baitap6\baitap6\obj\Debug\net8.0\baitap6.pdb
 E:\ASP\ASP_web\baitap6\baitap6\obj\Debug\net8.0\baitap6.genruntimeconfig.cache
 E:\ASP\ASP_web\baitap6\baitap6\obj\Debug\net8.0\ref\baitap6.dll
+E:\ASP\ASP_web\baitap6\baitap6\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout2.cshtml.rz.scp.css

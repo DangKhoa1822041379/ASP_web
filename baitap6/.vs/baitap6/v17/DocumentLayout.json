@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP\\ASP_web\\baitap6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB15846E-256C-4B61-B367-CED67F1F928E}|baitap6\\baitap6.csproj|e:\\asp\\asp_web\\baitap6\\baitap6\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB15846E-256C-4B61-B367-CED67F1F928E}|baitap6\\baitap6.csproj|solutionrelative:baitap6\\views\\shared\\_layout2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB15846E-256C-4B61-B367-CED67F1F928E}|baitap6\\baitap6.csproj|e:\\asp\\asp_web\\baitap6\\baitap6\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB15846E-256C-4B61-B367-CED67F1F928E}|baitap6\\baitap6.csproj|solutionrelative:baitap6\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB15846E-256C-4B61-B367-CED67F1F928E}|baitap6\\baitap6.csproj|e:\\asp\\asp_web\\baitap6\\baitap6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB15846E-256C-4B61-B367-CED67F1F928E}|baitap6\\baitap6.csproj|solutionrelative:baitap6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB15846E-256C-4B61-B367-CED67F1F928E}|baitap6\\baitap6.csproj|e:\\asp\\asp_web\\baitap6\\baitap6\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EB15846E-256C-4B61-B367-CED67F1F928E}|baitap6\\baitap6.csproj|solutionrelative:baitap6\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 65,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "baitap6\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "baitap6\\Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:58:58.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "baitap6\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "baitap6\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:58:44.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout2.cshtml",
+              "DocumentMoniker": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeDocumentMoniker": "baitap6\\Views\\Shared\\_Layout2.cshtml",
+              "ToolTip": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\Views\\Shared\\_Layout2.cshtml",
+              "RelativeToolTip": "baitap6\\Views\\Shared\\_Layout2.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAUwJ0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-12T13:31:04.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\.gitignore",
+              "RelativeDocumentMoniker": "baitap6\\.gitignore",
+              "ToolTip": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\.gitignore",
+              "RelativeToolTip": "baitap6\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-11T08:43:24.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 335,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

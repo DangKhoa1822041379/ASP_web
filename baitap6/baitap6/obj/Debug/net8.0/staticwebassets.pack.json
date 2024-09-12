@@ -5,16 +5,180 @@
       "PackagePath": "staticwebassets\\baitap6.bundle.scp.css"
     },
     {
-      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
     },
     {
       "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\fonts\\octin_sports_rg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\octin_sports_rg.ttf"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\about-img.jpg",
+      "PackagePath": "staticwebassets\\images\\about-img.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\about-img.png",
+      "PackagePath": "staticwebassets\\images\\about-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\b1.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\b2.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\b3.jpg",
+      "PackagePath": "staticwebassets\\images\\b3.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\blog-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img1.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\blog-img2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-img2.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\client.jpg",
+      "PackagePath": "staticwebassets\\images\\client.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\decoration-img.png",
+      "PackagePath": "staticwebassets\\images\\decoration-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\f1.png",
+      "PackagePath": "staticwebassets\\images\\f1.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\f2.png",
+      "PackagePath": "staticwebassets\\images\\f2.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\f3.png",
+      "PackagePath": "staticwebassets\\images\\f3.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\f4.png",
+      "PackagePath": "staticwebassets\\images\\f4.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\f5.png",
+      "PackagePath": "staticwebassets\\images\\f5.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\f6.png",
+      "PackagePath": "staticwebassets\\images\\f6.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\fevicon.png",
+      "PackagePath": "staticwebassets\\images\\fevicon.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\offer-img.png",
+      "PackagePath": "staticwebassets\\images\\offer-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\slider-bg2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-bg2.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\slider-img1.png",
+      "PackagePath": "staticwebassets\\images\\slider-img1.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\slider-img2.png",
+      "PackagePath": "staticwebassets\\images\\slider-img2.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\slider-img3.png",
+      "PackagePath": "staticwebassets\\images\\slider-img3.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\images\\user.png",
+      "PackagePath": "staticwebassets\\images\\user.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
       "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
     },
     {
       "Id": "E:\\ASP\\ASP_web\\baitap6\\baitap6\\wwwroot\\lib\\bootstrap\\LICENSE",
