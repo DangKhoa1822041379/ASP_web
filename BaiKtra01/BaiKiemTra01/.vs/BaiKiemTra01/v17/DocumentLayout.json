@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP\\ASP_web\\BaiKtra01\\BaiKiemTra01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C74FCBB9-F6EB-40AB-8FCF-55AFF0D65A6A}|BaiKiemTra01\\BaiKiemTra01.csproj|e:\\asp\\asp_web\\baiktra01\\baikiemtra01\\baikiemtra01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C74FCBB9-F6EB-40AB-8FCF-55AFF0D65A6A}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74FCBB9-F6EB-40AB-8FCF-55AFF0D65A6A}|BaiKiemTra01\\BaiKiemTra01.csproj|e:\\asp\\asp_web\\baiktra01\\baikiemtra01\\baikiemtra01\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74FCBB9-F6EB-40AB-8FCF-55AFF0D65A6A}|BaiKiemTra01\\BaiKiemTra01.csproj|solutionrelative:baikiemtra01\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 313,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3db98ce8-14f0-4b05-9b6a-b9dbe8fa94ab}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaiKhoanViewModel.cs",
+              "DocumentMoniker": "E:\\ASP\\ASP_web\\BaiKtra01\\BaiKiemTra01\\BaiKiemTra01\\Models\\TaiKhoanViewModel.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Models\\TaiKhoanViewModel.cs",
+              "ToolTip": "E:\\ASP\\ASP_web\\BaiKtra01\\BaiKiemTra01\\BaiKiemTra01\\Models\\TaiKhoanViewModel.cs",
+              "RelativeToolTip": "BaiKiemTra01\\Models\\TaiKhoanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T08:00:04.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ASP\\ASP_web\\BaiKtra01\\BaiKiemTra01\\BaiKiemTra01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra01\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ASP\\ASP_web\\BaiKtra01\\BaiKiemTra01\\BaiKiemTra01\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BaiKiemTra01\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAN4DAAAAAAAAAAAAAOYDAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:36:40.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
