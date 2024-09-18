@@ -1,0 +1,19 @@
+﻿<div class "container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Tên thể loại</th>
+                <th>Ngày tạo</th>
+            </tr>
+        </thead>
+            @foreach(var item in ViewBag.TheLoai)
+            {
+            <tr>
+                <td width="30%">@item.Name</td>
+                <td width="70%">@String.Format("{0:dd/MM/yyyy</td}",item.DateCreated)</td>
+            </tr>
+            }
+
+    </table>
+    <a asp-controller="TheLoai" asp-action="Create" class="btn btn-primary"> Thêm mới </a>
+</div>
