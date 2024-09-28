@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class "container">
+    <form asp-action="Search" method="get">
+    <input type="text" name="searchString" placeholder="Nhập lớp học cần tìm..."
+           value="@ViewBag.SearchString" />
+    <input type="submit" value="Tìm kiếm" />
+    </form>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Lớp Học</th>
+                <th>Năm nhập học</th>
+                <th>Năm ra trường</th>
+                <th>Số lượng sinh viên</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.LopHoc)
+            {
+            
+                <tr>
+                    <td width="15%"> @item.TenLopHoc</td>
+
+                    <td width="20%"> @String.Format("{00:dd/MM/yyyy}", item.NamNhapHoc)</td>
+
+                    <td width="20%"> @String.Format("{00:dd/MM/yyyy}", item.NamRaTruong)</td>
+                    <td width="20%"> @item.SoLuongSinhVien</td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Detail" asp-route-id="@item.Id">Detail</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>                
+                </tr>
+            }
+        </tbody>
+</table>
+<a asp-controller="LopHoc" asp-action="Create" class="btn btn-primary"> Thêm mới </a>
+
+</div>
+
