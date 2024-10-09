@@ -1,0 +1,41 @@
+﻿@model IEnumerable<BaiKiemTra03_03.Models.Contract>
+
+@{
+    ViewData["Title"] = "Danh sách hợp đồng";
+}
+
+<h1>Danh sách hợp đồng</h1>
+
+<p>
+    <a asp-action="Create">Tạo mới hợp đồng</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã hợp đồng</th>
+            <th>Tên hợp đồng</th>
+            <th>Ngày ký</th>
+            <th>Khách hàng</th>
+            <th>Giá trị hợp đồng</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.ContractId</td>
+                <td>@item.ContractName</td>
+                <td>@item.SigningDate.ToString("dd/MM/yyyy")</td>
+                <td>@item.Customer.CustomerName</td>
+                <td>@item.ContractValue</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ContractId">Sửa</a> |
+                    <a asp-action="Details" asp-route-id="@item.ContractId">Xem chi tiết</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ContractId">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,30 @@
+﻿@model BaiKiemTra03_03.Models.Contract
+
+@{
+    ViewData["Title"] = "Chi tiết hợp đồng";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <h4>Hợp đồng</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Tên hợp đồng</dt>
+        <dd class="col-sm-10">@Model.ContractName</dd>
+
+        <dt class="col-sm-2">Ngày ký</dt>
+        <dd class="col-sm-10">@Model.SigningDate.ToString("dd/MM/yyyy")</dd>
+
+        <dt class="col-sm-2">Khách hàng</dt>
+        <dd class="col-sm-10">@Model.Customer.CustomerName</dd>
+
+        <dt class="col-sm-2">Giá trị hợp đồng</dt>
+        <dd class="col-sm-10">@Model.ContractValue</dd>
+    </dl>
+</div>
+
+<div>
+    <a asp-action="Edit" asp-route-id="@Model.ContractId" class="btn btn-primary">Chỉnh sửa</a>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại</a>
+</div>
