@@ -5,16 +5,672 @@
       "PackagePath": "staticwebassets\\Project1.bundle.scp.css"
     },
     {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\css\\default-skin.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\css\\normalize.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\price-range.css",
+      "PackagePath": "staticwebassets\\css\\price-range.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
       "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
     },
     {
       "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\fonts\\Berlin Sans FB Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Berlin Sans FB Bold.ttf"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\fonts\\octin_sports_rg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\octin_sports_rg.ttf"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\404\\404.png",
+      "PackagePath": "staticwebassets\\images\\404\\404.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\agency-img.jpg",
+      "PackagePath": "staticwebassets\\images\\agency-img.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\images\\banner-bg.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\blog\\blog-one.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-one.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\blog\\blog-three.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-three.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\blog\\blog-two.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\blog-two.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\blog\\man-four.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-four.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\blog\\man-one.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-one.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\blog\\man-three.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-three.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\blog\\man-two.jpg",
+      "PackagePath": "staticwebassets\\images\\blog\\man-two.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\blog\\socials.png",
+      "PackagePath": "staticwebassets\\images\\blog\\socials.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\call-icon.png",
+      "PackagePath": "staticwebassets\\images\\call-icon.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\cart\\one.png",
+      "PackagePath": "staticwebassets\\images\\cart\\one.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\cart\\three.png",
+      "PackagePath": "staticwebassets\\images\\cart\\three.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\cart\\two.png",
+      "PackagePath": "staticwebassets\\images\\cart\\two.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\computer-img.png",
+      "PackagePath": "staticwebassets\\images\\computer-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\dress-shirt-img.png",
+      "PackagePath": "staticwebassets\\images\\dress-shirt-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\flag-france.png",
+      "PackagePath": "staticwebassets\\images\\flag-france.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\flag-uk.png",
+      "PackagePath": "staticwebassets\\images\\flag-uk.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\footer-logo.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\free.svg",
+      "PackagePath": "staticwebassets\\images\\free.svg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\gifts.png",
+      "PackagePath": "staticwebassets\\images\\gifts.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\high-quality.svg",
+      "PackagePath": "staticwebassets\\images\\high-quality.svg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\bg_border.png",
+      "PackagePath": "staticwebassets\\images\\home\\bg_border.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\gallery1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery1.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\gallery2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery2.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\gallery3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery3.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\gallery4.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\gallery4.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\girl1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\girl1.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\girl2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\girl2.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\girl3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\girl3.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\iframe1.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe1.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\iframe2.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe2.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\iframe3.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe3.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\iframe4.png",
+      "PackagePath": "staticwebassets\\images\\home\\iframe4.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\logo.png",
+      "PackagePath": "staticwebassets\\images\\home\\logo.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\map.png",
+      "PackagePath": "staticwebassets\\images\\home\\map.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\new.png",
+      "PackagePath": "staticwebassets\\images\\home\\new.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\partner1.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner1.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\partner2.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner2.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\partner3.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner3.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\partner4.png",
+      "PackagePath": "staticwebassets\\images\\home\\partner4.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\pricing.png",
+      "PackagePath": "staticwebassets\\images\\home\\pricing.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\product1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product1.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\product2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product2.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\product3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product3.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\product4.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product4.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\product5.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product5.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\product6.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\product6.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\recommend1.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\recommend1.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\recommend2.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\recommend2.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\recommend3.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\recommend3.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\sale.png",
+      "PackagePath": "staticwebassets\\images\\home\\sale.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\searchicon.png",
+      "PackagePath": "staticwebassets\\images\\home\\searchicon.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\home\\shipping.jpg",
+      "PackagePath": "staticwebassets\\images\\home\\shipping.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\jhumka-img.png",
+      "PackagePath": "staticwebassets\\images\\jhumka-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\kangan-img.png",
+      "PackagePath": "staticwebassets\\images\\kangan-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\laptop-img.png",
+      "PackagePath": "staticwebassets\\images\\laptop-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\line.png",
+      "PackagePath": "staticwebassets\\images\\line.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\mail-icon.png",
+      "PackagePath": "staticwebassets\\images\\mail-icon.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\map-icon.png",
+      "PackagePath": "staticwebassets\\images\\map-icon.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\mobile-img.png",
+      "PackagePath": "staticwebassets\\images\\mobile-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\neklesh-img.png",
+      "PackagePath": "staticwebassets\\images\\neklesh-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\p1.png",
+      "PackagePath": "staticwebassets\\images\\p1.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\p2.png",
+      "PackagePath": "staticwebassets\\images\\p2.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\p3.png",
+      "PackagePath": "staticwebassets\\images\\p3.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\p4.png",
+      "PackagePath": "staticwebassets\\images\\p4.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\p5.png",
+      "PackagePath": "staticwebassets\\images\\p5.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\p6.png",
+      "PackagePath": "staticwebassets\\images\\p6.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\p7.png",
+      "PackagePath": "staticwebassets\\images\\p7.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\p8.png",
+      "PackagePath": "staticwebassets\\images\\p8.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\1.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\product-details\\new.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\new.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\product-details\\rating.png",
+      "PackagePath": "staticwebassets\\images\\product-details\\rating.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\product-details\\share.png",
+      "PackagePath": "staticwebassets\\images\\product-details\\share.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\product-details\\similar1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\similar1.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\product-details\\similar2.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\similar2.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\product-details\\similar3.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\similar3.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\purse.png",
+      "PackagePath": "staticwebassets\\images\\purse.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\saving-img.png",
+      "PackagePath": "staticwebassets\\images\\saving-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\shop\\advertisement.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\advertisement.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\shop\\product10.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product10.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\shop\\product11.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product11.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\shop\\product12.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product12.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\shop\\product7.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product7.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\shop\\product8.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product8.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\shop\\product9.jpg",
+      "PackagePath": "staticwebassets\\images\\shop\\product9.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\toggle-icon.png",
+      "PackagePath": "staticwebassets\\images\\toggle-icon.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\images\\truck.svg"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\tshirt-img.png",
+      "PackagePath": "staticwebassets\\images\\tshirt-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\user-icon.png",
+      "PackagePath": "staticwebassets\\images\\user-icon.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\images\\women-clothes-img.png",
+      "PackagePath": "staticwebassets\\images\\women-clothes-img.png"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\contact.js",
+      "PackagePath": "staticwebassets\\js\\contact.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\gmaps.js",
+      "PackagePath": "staticwebassets\\js\\gmaps.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\html5shiv.js",
+      "PackagePath": "staticwebassets\\js\\html5shiv.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\jquery.prettyPhoto.js",
+      "PackagePath": "staticwebassets\\js\\jquery.prettyPhoto.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\js\\plugin.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\price-range.js",
+      "PackagePath": "staticwebassets\\js\\price-range.js"
+    },
+    {
       "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\js\\slider-setting.js"
     },
     {
       "Id": "E:\\ASP\\ASP_web\\Project1\\wwwroot\\lib\\bootstrap\\LICENSE",

@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis.FlowAnalysis.DataFlow;
 using Microsoft.EntityFrameworkCore;
 using Project1.Data;
 using Project1.Models;
@@ -19,7 +20,7 @@ namespace Project1.Controllers
 
         public IActionResult Index()
         {
-            IEnumerable<SanPham> sanpham = _db.SanPham.Include(sp => sp.TheLoai).ToList();
+            IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai").ToList();
             return View(sanpham);
         }
 
@@ -32,6 +33,23 @@ namespace Project1.Controllers
         public IActionResult Error()
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        [HttpGet]
+        public IActionResult Details(int id)
+        {
+            var sanpham = _db.SanPham.FirstOrDefault(sp => sp.Id == id);
+            if (sanpham == null)
+            {
+                return NotFound();
+            }
+           return View(sanpham);
+        }
+        [HttpGet]
+        public IActionResult FilterByTheLoai(int id)
+        {
+            IEnumerable<SanPham> sanpham = _db.SanPham.Include("TheLoai").Where(sp => sp.TheLoai.Id == id).ToList();
+            return View("Index", sanpham);
         }
     }
 }
