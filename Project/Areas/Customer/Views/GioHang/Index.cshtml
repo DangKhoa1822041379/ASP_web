@@ -1,4 +1,4 @@
-﻿@model IEnumerable<GioHang>
+﻿@model GioHangViewModel
 <style>
     input[type="text"] {
         width: 60px;
@@ -23,13 +23,14 @@
                             </tr>
                         </thead>
                     <tbody>
-                        @foreach (var item in Model)
+                        @foreach (var item in Model.DsGioHang)
                         {
                             <tr data-price="500000">
                                 <td>1</td>
                                 <td>@item.SanPham.Name</td>
                                 <td><img src="@item.SanPham.ImageUrl" alt="Sản phẩm A" class="img-fluid" width="100"></td>
-                                <td>@item.SanPham.Price.ToString("N0") VND</td>
+                                <td>@item.SanPham.Price.ToString("N0")</td>
+                                @* <td>@item.SanPham.Price.ToString("N0") VND</td> *@
                                 <td>
                                     <div class="d-flex justify-content-center align-items-center">
                                         <button class="btn btn-sm btn-outline-secondary minus">-</button>
@@ -37,7 +38,7 @@
                                         <button class="btn btn-sm btn-outline-secondary plus">+</button>
                                     </div>
                                 </td>
-                                <td class="item-total">@((item.Quantity * item.SanPham.Price).ToString("N0"))</td>
+                                <td class="item-total">@item.ProductPrice.ToString("N0")</td>
                                 <td>
                                     <button class="btn btn-sm btn-danger remove">Xóa</button>
                                 </td>
@@ -55,7 +56,7 @@
                         <h5 class="card-title">Thông tin thanh toán</h5>
 
                         <!-- Tổng cộng -->
-                        <p><strong>Tổng cộng:</strong> <span id="cart-total">1,100,000đ</span></p>
+                        <p><strong>Tổng cộng:</strong> <span class="text-danger" <span id="cart-total">@Model.TotalPrice đ</span></p>
 
                         <!-- Phương thức thanh toán -->
                         <h6>Phương thức thanh toán</h6>

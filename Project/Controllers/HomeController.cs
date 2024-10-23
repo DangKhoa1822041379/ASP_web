@@ -56,10 +56,21 @@ namespace Project.Controllers
         [Authorize]
         public IActionResult Details(GioHang giohang)
         {
+            //lay thong tin dang nhap
             var identity = (ClaimsIdentity)User.Identity;
             var claim = identity.FindFirst(ClaimTypes.NameIdentifier);
             giohang.ApplicationUserId = claim.Value;
-            _db.GioHang.Add(giohang);
+            //Ktra san pham co trong gio hang hay chua?
+            var giohangdb = _db.GioHang.FirstOrDefault(sp => sp.SanPhamId == giohang.SanPhamId
+                && sp.ApplicationUserId == giohang.ApplicationUserId);
+            if (giohang == null)// Neu ko co san pham trong gio hang
+            {
+                _db.GioHang.Add(giohang);// Them san pham vao gio hang
+            }
+            else
+            {
+                giohangdb.Quantity += giohang.Quantity;//Cap nhat so luong san pham
+            }         
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
