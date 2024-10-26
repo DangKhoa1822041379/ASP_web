@@ -26,13 +26,14 @@ namespace Project.Controllers
             // Lấy danh sách sản phẩm trong giỏ hàng của user
             GioHangViewModel giohang = new GioHangViewModel()
             {
-                DsGioHang = _db.GioHang.Include("SanPham").Where(gh => gh.ApplicationUserId == claim.Value).ToList()
+                DsGioHang = _db.GioHang.Include("SanPham").Where(gh => gh.ApplicationUserId == claim.Value).ToList(),
+                HoaDon = new HoaDon()
             };
             foreach (var item in giohang.DsGioHang)
             {
                 item.ProductPrice = item.Quantity * item.SanPham.Price;
 
-                giohang.TotalPrice += item.ProductPrice;
+                giohang.HoaDon.Total += item.ProductPrice;
             }
             return View(giohang);
         }
@@ -43,8 +44,7 @@ namespace Project.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
 
-        }
-
+        }     
         public IActionResult Giam(int giohangId)
         {
             GioHang giohang = _db.GioHang.FirstOrDefault(gh => gh.Id == giohangId);
@@ -64,6 +64,85 @@ namespace Project.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
 
+        }
+        [Authorize]
+        public IActionResult ThanhToan()
+        {
+            // Lay thong tin tai khoan
+            var identity = (ClaimsIdentity)User.Identity;
+            var claim = identity.FindFirst(ClaimTypes.NameIdentifier);
+
+            // Lay danh sach cac san pham trong gio hang cua User
+            //IEnumerable<GioHang> dsGioHang = _db.GioHang.Include("SanPham").
+            //                Where(gh => gh.ApplicationUserId == claim.Value).ToList();
+
+            //return View(dsGioHang);
+            GioHangViewModel giohang = new GioHangViewModel
+            {
+                DsGioHang = _db.GioHang.Include("SanPham").Where(gh => gh.ApplicationUserId == claim.Value).ToList(),
+                HoaDon = new HoaDon()
+            };
+
+            giohang.HoaDon.ApplicationUser = _db.ApplicationUser.FirstOrDefault(u => u.Id == claim.Value);
+            giohang.HoaDon.Name = giohang.HoaDon.ApplicationUser.Name;
+            giohang.HoaDon.Address = giohang.HoaDon.ApplicationUser.Address;
+            giohang.HoaDon.PhoneNumber = giohang.HoaDon.ApplicationUser.PhoneNumber;
+
+
+            foreach (var item in giohang.DsGioHang)
+            {
+                // Tính tien san pham theo so luong
+                double prodcutprice = item.Quantity * item.SanPham.Price;
+                giohang.HoaDon.Total += prodcutprice;
+            }
+            return View(giohang);
+        }
+
+        [HttpPost]
+        [Authorize]
+        [ValidateAntiForgeryToken]
+        public IActionResult ThanhToan(GioHangViewModel giohang)
+        {
+            // Lay thong tin tai khoan
+            var identity = (ClaimsIdentity)User.Identity;
+            var claim = identity.FindFirst(ClaimTypes.NameIdentifier);
+
+
+            giohang.DsGioHang = _db.GioHang.Include("SanPham").Where(gh => gh.ApplicationUserId == claim.Value).ToList();
+
+            giohang.HoaDon.ApplicationUserId = claim.Value;
+            giohang.HoaDon.OrderDate = DateTime.Now;
+            giohang.HoaDon.OrderStatus = "Đang xác nhận";
+
+            foreach (var item in giohang.DsGioHang)
+            {
+                // Tính tien san pham theo so luong
+                double prodcutprice = item.Quantity * item.SanPham.Price;
+                giohang.HoaDon.Total += prodcutprice;
+            }
+
+            _db.HoaDon.Add(giohang.HoaDon);
+            _db.SaveChanges();
+
+            // Them thong tin chi tiet hoa don
+            foreach (var item in giohang.DsGioHang)
+            {
+                ChiTietHoaDon chitiethoadon = new ChiTietHoaDon()
+                {
+                    SanPhamId = item.SanPhamId,
+                    HoaDonId = giohang.HoaDon.Id,
+                    ProductPrice = item.SanPham.Price * item.Quantity,
+                    Quantity = item.Quantity
+                };
+                _db.ChiTietHoaDon.Add(chitiethoadon);
+                _db.SaveChanges();
+
+            }
+
+            // Xoa thong tin trong gio hang
+            _db.GioHang.RemoveRange(giohang.DsGioHang);
+            _db.SaveChanges();
+            return RedirectToAction("Index", "Home");
         }
     }
 }

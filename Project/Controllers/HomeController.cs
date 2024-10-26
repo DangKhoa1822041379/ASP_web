@@ -1,4 +1,4 @@
-using Microsoft.AspNetCore.Authorization;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -56,22 +56,25 @@ namespace Project.Controllers
         [Authorize]
         public IActionResult Details(GioHang giohang)
         {
-            //lay thong tin dang nhap
+
+            // Lấy thông tin tài khoản  
             var identity = (ClaimsIdentity)User.Identity;
             var claim = identity.FindFirst(ClaimTypes.NameIdentifier);
+
             giohang.ApplicationUserId = claim.Value;
-            //Ktra san pham co trong gio hang hay chua?
-            var giohangdb = _db.GioHang.FirstOrDefault(sp => sp.SanPhamId == giohang.SanPhamId
-                && sp.ApplicationUserId == giohang.ApplicationUserId);
-            if (giohang == null)// Neu ko co san pham trong gio hang
+            // Kiem tra san pham
+            var giohangdb = _db.GioHang.FirstOrDefault(sp => sp.SanPhamId == giohang.SanPhamId && sp.ApplicationUserId == giohang.ApplicationUserId);
+            if (giohangdb == null)
             {
-                _db.GioHang.Add(giohang);// Them san pham vao gio hang
+                _db.Add(giohang);
             }
             else
             {
-                giohangdb.Quantity += giohang.Quantity;//Cap nhat so luong san pham
-            }         
+                giohangdb.Quantity += giohang.Quantity;
+            }
+            // Lưu sản phẩm vào giỏ hàng  
             _db.SaveChanges();
+
             return RedirectToAction("Index");
         }
         [HttpGet]
